@@ -1,0 +1,2 @@
+# mind-bucket
+Personal blog.
